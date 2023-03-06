@@ -1,3 +1,16 @@
+Title: Weather App
+
+Details: Wep application to get temperature and related details.
+
+Used technologies:
+
+    HTML
+    React
+    SASS
+    Context.api
+    Fetch
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
