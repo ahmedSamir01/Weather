@@ -1,6 +1,6 @@
-Title: Weather App
+# Weather App
 
-Details: Wep application to get temperature and related details.
+Wep application to get temperature and related details.
 
 Used technologies:
 
@@ -9,7 +9,6 @@ Used technologies:
     SASS
     Context.api
     Fetch
-
 
 # Getting Started with Create React App
 
