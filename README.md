@@ -2,7 +2,7 @@
 
 Wep application to get temperature and related details.
 
-Used technologies:
+## Used technologies:
 
     HTML
     React
