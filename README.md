@@ -1,4 +1,4 @@
-# Weather
+# Weather App
 
 Details: Wep application to get temperature and related details.
 
